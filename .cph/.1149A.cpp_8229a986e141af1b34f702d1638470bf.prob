@@ -1,0 +1,1 @@
+{"name":"Local: 1149A","url":"/home/ahnaf-ahmed/Desktop/Codeforces/1149A.cpp","tests":[{"id":1753552820049,"input":"5\n1 2 1 2 1","output":"1 1 1 2 2"},{"id":1753552834349,"input":"9\n1 1 2 1 1 1 2 1 1","output":"1 1 1 2 1 1 1 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ahnaf-ahmed/Desktop/Codeforces/1149A.cpp","group":"local","local":true}
