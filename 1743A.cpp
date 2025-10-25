@@ -35,18 +35,5 @@ void solve(){
     }
 
     cout << ncr(10-n, 2) * ncr(4, 2) << "\n";
-
-}
-
-int32_t main() {
-    fastio;
-
-    int t;
-    cin >> t;
-
-    while (t--){
-        solve();
-    }
-
-    return 0;
+    
 }
